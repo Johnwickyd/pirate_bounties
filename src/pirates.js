@@ -30,7 +30,7 @@ export const pirates = [
     },
     {
         id: 5,
-        name: 'BROOK.D.WORKU',
+        name: 'DEMON HUNTER BROOK',
         money:'$4,450,000,000',
         image: brook
     },
