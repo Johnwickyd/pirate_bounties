@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/pirate_bounties/static/css/main.ac65ed70.css",
-    "main.js": "/pirate_bounties/static/js/main.7f269626.js",
+    "main.js": "/pirate_bounties/static/js/main.36c19204.js",
     "static/js/787.7f923d21.chunk.js": "/pirate_bounties/static/js/787.7f923d21.chunk.js",
     "static/media/nati.jpg": "/pirate_bounties/static/media/nati.129a7fe107050f8610f1.jpg",
-    "static/media/brook.jpg": "/pirate_bounties/static/media/brook.571b97c432809b6ad42c.jpg",
+    "static/media/brook.jpg": "/pirate_bounties/static/media/brook.1372063c8b940094ba7e.jpg",
     "static/media/SEGA.woff": "/pirate_bounties/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/pirate_bounties/index.html",
     "main.ac65ed70.css.map": "/pirate_bounties/static/css/main.ac65ed70.css.map",
-    "main.7f269626.js.map": "/pirate_bounties/static/js/main.7f269626.js.map",
+    "main.36c19204.js.map": "/pirate_bounties/static/js/main.36c19204.js.map",
     "787.7f923d21.chunk.js.map": "/pirate_bounties/static/js/787.7f923d21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac65ed70.css",
-    "static/js/main.7f269626.js"
+    "static/js/main.36c19204.js"
   ]
 }
