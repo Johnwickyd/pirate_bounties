@@ -1,0 +1,38 @@
+.tc.card{
+    width: 400px;
+    height: 700px;
+    background-image: url("https://previews.123rf.com/images/colorshadow/colorshadow1709/colorshadow170900149/86269414-old-paper-texture-cardboard-abstract-style-background-texture-of-old-yellowed-paper-texture-of-beige.jpg");
+    font-family: 'Times New Roman', sans-serif;
+  }
+.lorem{
+    font-size: 10px;
+    text-align: center;
+  }
+h1.head{
+    letter-spacing:5px;
+    font-size: 80px;
+    margin-bottom: 0px;
+    margin-top: 15px;
+  }
+  .f2.status{
+    letter-spacing:6px;
+    margin: 0px;
+    font-family: 'sans-serif';
+  }
+  h2.f2.name{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', sans-serif;
+  }
+
+  p.f3{
+    margin: 5px;
+    font-size: 35px;
+  }
+  img.pics {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 300px;
+  }
